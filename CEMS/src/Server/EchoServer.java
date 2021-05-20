@@ -138,7 +138,7 @@ public class EchoServer extends AbstractServer {
 				System.out.println("Jen5");
 			} else
 				try {
-					System.out.println("Jen6");
+					System.out.println("Jeen6");
 					client.sendToClient("not found");
 					System.out.println("Jen7");
 				} catch (IOException e) {
